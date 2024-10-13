@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // or 'next/link' for Next.js
 import ActiveLink from '../../../ActiveLink/ActiveLink';
 
 const DesktopNavLinks = () => {

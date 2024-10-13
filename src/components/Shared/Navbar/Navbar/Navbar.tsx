@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <>
       {/* Desktop navbar */}
-      <div className="hidden sm:flex justify-between items-center py-6">
+      <div className="hidden sm:flex justify-between items-center py-6 md:px-4">
         <LogoLink />
         <DesktopNavLinks />
       </div>
