@@ -4,7 +4,7 @@ import Footer from '../components/Shared/Footer/Footer';
 import Navbar from '../components/Shared/Navbar/Navbar/Navbar';
 const Main = () => {
     return (
-        <div>
+        <div className='bg-white'>
             <Navbar></Navbar>
             <Outlet></Outlet>
                <hr />
