@@ -8,8 +8,8 @@ const Works = () => {
                 <div className='px-4 mx-auto'>
                     <div className="card bg-pink-100 ">
                         <div className="card-body">
-                            <h2 className="playfair-display text-3xl">HOLAGO Website Re-design</h2>
-                            <p className='poppins-medium'>Read case study <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
+                            <h2 style={{color: "#1a1a1a"}} className="playfair-display text-3xl">HOLAGO Website Re-design</h2>
+                            <p style={{color: "#1a1a1a"}} className='poppins-medium'>Read case study <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
                         </div>
                         <div className='ps-6 pt-16'>
                             <img
@@ -24,8 +24,8 @@ const Works = () => {
                 <div className='px-4 mx-auto'>
                     <div className="card bg-stone-100">
                         <div className="card-body">
-                            <h2 className="playfair-display text-3xl">UX-Laws (Hick's Law)</h2>
-                            <p className='poppins-medium'>Read Article <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
+                            <h2 style={{color: "#1a1a1a"}} className="playfair-display text-3xl">UX-Laws (Hick's Law)</h2>
+                            <p style={{color: "#1a1a1a"}} className='poppins-medium'>Read Article <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
                         </div>
                         <div className='ps-6 pt-16'>
                             <img
