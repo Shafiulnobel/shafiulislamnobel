@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div>
             <hr />
-            <div className='my-10'>
+            <div className='py-10'>
                 <h2 style={{color: "#1a1a1a"}} className='playfair-display text-2xl text-center'>Let's Connect</h2>
                 <h5 style={{color: "#1a1a1a"}} className='text-md roboto-regular text-center my-4'>Feel free to reach out for collaborations or just a friendly hello <FontAwesomeIcon icon={faFaceSmile} className="text-4sm" /></h5>
                 <h5 className='text-md roboto-regular text-center text-blue-600/100'>shafiulislamnobel1@gmail.com</h5>

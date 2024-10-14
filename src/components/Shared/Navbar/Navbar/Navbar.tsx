@@ -21,7 +21,7 @@ const Navbar = () => {
       </div>
 
       {/* Mobile navbar */}
-      <div className="sm:hidden flex justify-between items-center my-4 mx-4">
+      <div className="sm:hidden flex justify-between items-center py-4 mx-4">
         <LogoLink />
         <MobileMenuButton onClick={handleDrawerToggle} />
         <MobileDrawer isOpen={isDrawerOpen} onClose={handleDrawerToggle} />
