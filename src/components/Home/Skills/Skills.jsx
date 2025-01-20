@@ -54,10 +54,11 @@ const Skills = () => {
                                 
                             </div>
                             <div>
-                            <button className="btn btn-sm  ">Wireframing</button>
+                            <button className="btn btn-sm me-2 ">Wireframing</button>
+                            <button className="btn btn-sm  me-2">Prototyping</button>
                             </div>
                             <div>
-                                <button className="btn btn-sm  me-2">Prototyping</button>
+                                
                                 <button className="btn btn-sm  me-2">Frontend Development (React)</button>
                             </div>
                         </div>
