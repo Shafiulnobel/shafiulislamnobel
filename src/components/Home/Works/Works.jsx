@@ -10,7 +10,7 @@ const Works = () => {
                     <div className="card bg-stone-100">
                         <div className="card-body">
                             <h2 style={{color: "#1a1a1a"}} className="playfair-display text-3xl">Trendz – A Fashion Website</h2>
-                            <p style={{color: "#1a1a1a"}} className='poppins-medium'>Read case study <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
+                            <p style={{color: "#1a1a1a"}} className='poppins-medium'>See Project <span><FontAwesomeIcon icon={faArrowRight} className="" /></span></p>
                         </div>
                         <div className='ps-6 pt-16'>
                             <img
