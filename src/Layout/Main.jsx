@@ -26,7 +26,7 @@ const Main = () => {
   };
 
   return (
-    <div className='banner-container'>
+    <div className='bg-white'>
       <Navbar />
       <Outlet />
       <hr />
