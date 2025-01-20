@@ -11,7 +11,7 @@ const About = () => {
                         <img className='' src="https://i.ibb.co.com/6Z1yz00/Whats-App-Image-2025-01-20-at-3-22-51-PM.jpg" alt="" />
                     </div>
                     <div>
-                        <p style={{ color: "#1a1a1a" }} className='text-2xl roboto-regular leading-relaxed'>I’m a passionate UI/UX designer driven to create intuitive, user-friendly digital experiences. With a keen eye for detail and a focus on user-centered design principles, I aim to bridge the gap between aesthetics and functionality.
+                        <p style={{ color: "#1a1a1a" }} className='text-lg lg:text-2xl roboto-regular leading-relaxed'>I’m a passionate UI/UX designer driven to create intuitive, user-friendly digital experiences. With a keen eye for detail and a focus on user-centered design principles, I aim to bridge the gap between aesthetics and functionality.
                         </p>
                         <a
                             target="_blank"
